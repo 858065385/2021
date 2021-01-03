@@ -6,10 +6,9 @@
 
 ### 写作思路
 
-** 粗体 **
+**粗体**
 
 <!-- 这个链接用 1 作为网址变量 [RUNOOB](./icon-success.png). -->
-
 
 <img src="./icon-success.png" width="50%">
 
